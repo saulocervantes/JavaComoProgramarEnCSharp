@@ -1,0 +1,5 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 3\Capitulo03\3.15\bin\Debug\3.15.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 3\Capitulo03\3.15\bin\Debug\3.15.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 3\Capitulo03\3.15\bin\Debug\3.15.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 3\Capitulo03\3.15\obj\Debug\3.15.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 3\Capitulo03\3.15\obj\Debug\3.15.pdb

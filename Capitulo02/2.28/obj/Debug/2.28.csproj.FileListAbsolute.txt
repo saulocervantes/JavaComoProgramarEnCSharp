@@ -1,0 +1,6 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\bin\Debug\2.28.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\bin\Debug\2.28.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\bin\Debug\2.28.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\obj\Debug\2.28.csprojResolveAssemblyReference.cache
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\obj\Debug\2.28.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Capitulo02\2.28\obj\Debug\2.28.pdb
