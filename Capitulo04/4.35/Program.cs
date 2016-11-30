@@ -15,9 +15,9 @@ namespace _4._35
     {
         static void Main(string[] args)
         {
-            float cateto1 = float.MinValue;
-            float cateto2 = float.MinValue;
-            float hipotenusa = float.MinValue;
+            float lado1 = 0;
+            float lado2 = 0;
+            float lado3 = 0;
             int i = 0;
 
             while (i < 3)
@@ -27,22 +27,23 @@ namespace _4._35
                 float numero = float.Parse(Console.ReadLine());
 
                 if (i == 1)
-                    hipotenusa = numero;
-                else if (i == 2)
-                {
-                    cateto1 = Math.Min(hipotenusa, numero);
-                    hipotenusa = Math.Max(hipotenusa, numero);
-                }
-                else
-                {
-                    cateto2 = Math.Min(hipotenusa, numero);
-                    hipotenusa = Math.Max(hipotenusa, numero);
-                }
+                    lado1 = numero;
+                if (i == 2)
+                    lado2 = numero;
+                if (i == 3)
+                    lado3 = numero;
+            }
 
+            if (lado1 > 0 & lado2 > 0 & lado3 > 0)
+            {
+                Triangulo triangulo = new Triangulo(lado1, lado2, lado3);
+                triangulo.VerificarTriangulo();
+            }
+            else
+            {
+                Console.WriteLine("Todos los valores deben ser mayor a 0.");
             }
             
-            Triangulo triangulo = new Triangulo(cateto1, cateto2, hipotenusa);
-            triangulo.VerificarTriangulo();
 
 
         }

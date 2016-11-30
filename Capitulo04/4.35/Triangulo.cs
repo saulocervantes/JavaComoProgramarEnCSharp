@@ -8,22 +8,22 @@ namespace _4._35
 {
     class Triangulo
     {
-        public float Cateto1 { get; set; }
-        public float Cateto2 { get; set; }
-        public float Hipotenusa { get; set; }
+        public float Lado1 { get; set; }
+        public float Lado2 { get; set; }
+        public float Lado3 { get; set; }
 
-        public Triangulo( float cat1, float cat2, float hip)
+        public Triangulo( float l1, float l2, float l3)
         {
-            Cateto1 = cat1;
-            Cateto2 = cat2;
-            Hipotenusa = hip;
+            Lado1 = l1;
+            Lado2 = l2;
+            Lado3 = l3;
         }
 
         public void VerificarTriangulo()
         {
             int j = 0;
-
-            Console.WriteLine(Math.Pow(Hipotenusa, 2) == Math.Pow(Cateto1, 2) + Math.Pow(Cateto2, 2) ?
+            //lado1+lado2>lado3 y lado2+lado3>lado1 y lado1+lado3>lado
+            Console.WriteLine(Lado1 + Lado2 > Lado3 & Lado2 + Lado3 > Lado1 & Lado1 + Lado3 > Lado2 ?
                 "SI es un triángulo" : "NO es un triángulo");
         }
     }
