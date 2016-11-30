@@ -21,8 +21,6 @@ namespace _4._36
 
         public void VerificarTriangulo()
         {
-            int j = 0;
-
             Console.WriteLine(Math.Pow(Hipotenusa, 2) == Math.Pow(Cateto1, 2) + Math.Pow(Cateto2, 2) ?
                 "SI es un triángulo rectángulo" : "NO es un triángulo rectángulo");
         }

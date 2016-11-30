@@ -21,7 +21,6 @@ namespace _4._35
 
         public void VerificarTriangulo()
         {
-            int j = 0;
             //lado1+lado2>lado3 y lado2+lado3>lado1 y lado1+lado3>lado
             Console.WriteLine(Lado1 + Lado2 > Lado3 & Lado2 + Lado3 > Lado1 & Lado1 + Lado3 > Lado2 ?
                 "SI es un triángulo" : "NO es un triángulo");
